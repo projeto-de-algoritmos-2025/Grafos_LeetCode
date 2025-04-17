@@ -1,2 +1,39 @@
 # Grafos_LeetCode
-Repositório criado para resolução das questões de grafos do LeetCode, conforme primeiro trabalho da disciplina de Projeto de Algoritmos.
+
+**Número da Lista**: 1  
+**Conteúdo da Disciplina**: Grafos 1
+
+## Alunos
+
+| Matrícula   | Nome                          |
+|-------------|-------------------------------|
+| 202015901   | Ana Luiza Hoffmann Ferreira   |
+|   |         |
+
+## Sobre o Repositório
+
+Este repositório apresenta resoluções de problemas envolvendo **Grafos**, propostos como parte da **Lista 1** da disciplina de **Projeto de Algoritmos**.
+
+A plataforma [LeetCode](https://leetcode.com/) foi utilizada para selecionar e resolver as questões, que possuem dificuldade média ou difícil. A resolução de cada questão está em sua pasta correspondente neste repositório.
+
+As soluções apresentadas foram elaboradas focando nos conceitos explicados em sala de aula sobre grafos, tais quais a busca em profundidade (DFS) e em largura (BFS), graus de vértices e bipartição.
+
+## Sobre a LeetCode
+
+A [LeetCode](https://leetcode.com) é uma famosa plataforma (online) utilizada por programadores que querem desenvolver suas habilidades com os mais diversos conceitos e práticas de TI.
+
+A plataforma disponibiliza problemas classificados por dificuldade (fácil, médio e difícil), sendo utilizadas para este trabalho 2 questões médias e 1 difícil. Vale ressaltar também que as questões selecionadas são as que, dentre as encontradas e exploradas, apresentam maior semelhança com o conhecimento teórico apresentado em sala de aula.
+
+## Exercícios Resolvidos
+
+| Exercício | Enunciado | Dificuldade | Autor da Resolução |
+| :--: | -- | :--: | -- | -- |
+| 1 | [797. All Paths From Source to Target]() | Média | Ana Luiza Hoffmann Ferreira |
+| 2 | [2642. Design Graph With Shortest Path Calculator]() | Difícil |  |
+| 3 |  | Média |  |
+
+## Disciplina
+
+Este trabalho foi desenvolvido para a disciplina **Projeto de Algoritmos**, ministrada pelo **Prof. Maurício**, no curso de **Engenharia de Software** da **Universidade de Brasília - Faculdade de Ciências e Tecnologias em Engenharia (UnB - FCTE)**.
+
+## Conclusão
