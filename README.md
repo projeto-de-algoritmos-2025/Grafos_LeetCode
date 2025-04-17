@@ -27,7 +27,7 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 ## Exercícios Resolvidos
 
 | Exercício | Enunciado | Dificuldade | Autor da Resolução |
-| :--: | -- | :--: | -- | -- |
+| :--: | -- | :--: | -- |
 | 1 | [797. All Paths From Source to Target]() | Média | Ana Luiza Hoffmann Ferreira |
 | 2 | [2642. Design Graph With Shortest Path Calculator]() | Difícil |  |
 | 3 |  | Média |  |
