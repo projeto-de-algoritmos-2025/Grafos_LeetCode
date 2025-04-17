@@ -14,7 +14,7 @@
 
 Este repositório apresenta resoluções de problemas envolvendo **Grafos**, propostos como parte da **Lista 1** da disciplina de **Projeto de Algoritmos**.
 
-A plataforma [LeetCode](https://leetcode.com/) foi utilizada para selecionar e resolver as questões, que possuem dificuldade média ou difícil. A resolução de cada questão está em sua pasta correspondente neste repositório.
+A plataforma [LeetCode](https://leetcode.com/) foi utilizada para selecionar e resolver as questões, que possuem dificuldade média ou difícil. A resolução de cada questão está em sua pasta correspondente neste repositório; caso queira conferir o enunciado, basta clicar no link disponível na [Tabela 1](#exercícios-resolvidos).
 
 As soluções apresentadas foram elaboradas focando nos conceitos explicados em sala de aula sobre grafos, tais quais a busca em profundidade (DFS) e em largura (BFS), graus de vértices e bipartição.
 
@@ -26,10 +26,10 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 
 ## Exercícios Resolvidos
 
-| Exercício | Enunciado | Dificuldade | Autor da Resolução |
+| Exercício | Enunciado | Resolução | Dificuldade | Autor da Resolução |
 | :--: | -- | :--: | -- |
-| 1 | [797. All Paths From Source to Target]() | Média | Ana Luiza Hoffmann Ferreira |
-| 2 | [2642. Design Graph With Shortest Path Calculator]() | Difícil |  |
+| 1 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [LC797.py](./Exercício%20797/LC797.py)| Média | Ana Luiza Hoffmann Ferreira |
+| 2 | [2642. Design Graph With Shortest Path Calculator]() | | Difícil |  |
 | 3 |  | Média |  |
 
 ## Disciplina
