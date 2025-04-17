@@ -27,10 +27,10 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 ## Exercícios Resolvidos
 
 | Exercício | Enunciado | Resolução | Dificuldade | Autor da Resolução |
-| :--: | -- | :--: | -- |
+| :--: | -- | :--: | -- | -- |
 | 1 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [LC797.py](./Exercício%20797/LC797.py)| Média | Ana Luiza Hoffmann Ferreira |
 | 2 | [2642. Design Graph With Shortest Path Calculator]() | | Difícil |  |
-| 3 |  | Média |  |
+| 3 |  | | Média |  |
 
 ## Disciplina
 
