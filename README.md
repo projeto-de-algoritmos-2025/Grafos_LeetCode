@@ -33,8 +33,13 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 | 3 | [1557. Minimum Number of Vértices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [LC1557.py](./Exercício%202642/LC1557.py) | Média | Edson Gomes da Silva Filho |
 | 4 | [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [LC332.py](./Exercício%202642/LC332.py) | Difícil | Edson Gomes da Silva Filho |
 
+## Execução dos códigos na plataforma LeetCode
+
+A maneira mais fácil de exceutar ou reproduzir os códigos e os resultados mostrados nos prints da plataforma LeetCode, é na própria plataforma. Basta acessar os links das questões acima e executar ou submeter os códigos. No entanto para isso, é preciso criar uma conta gratuita na ferramenta.
+
+Caso não se queira utilizar a plataforma LeetCode, é necessário adaptar os códigos alterando ou removendo as funções adequando ou removendo os parâmetros, bem como incluir os imports necessários.
+
+
 ## Disciplina
 
 Este trabalho foi desenvolvido para a disciplina **Projeto de Algoritmos**, ministrada pelo **Prof. Maurício**, no curso de **Engenharia de Software** da **Universidade de Brasília - Faculdade de Ciências e Tecnologias em Engenharia (UnB - FCTE)**.
-
-## Conclusão
