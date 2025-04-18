@@ -22,7 +22,7 @@ As soluções apresentadas foram elaboradas focando nos conceitos explicados em 
 
 A [LeetCode](https://leetcode.com) é uma famosa plataforma (online) utilizada por programadores que querem desenvolver suas habilidades com os mais diversos conceitos e práticas de TI.
 
-A plataforma disponibiliza problemas classificados por dificuldade (fácil, médio e difícil), sendo utilizadas para este trabalho 2 questões médias e 1 difícil. Vale ressaltar também que as questões selecionadas são as que, dentre as encontradas e exploradas, apresentam maior semelhança com o conhecimento teórico apresentado em sala de aula.
+A plataforma disponibiliza problemas classificados por dificuldade (fácil, médio e difícil), sendo utilizadas para este trabalho 2 questões médias e 2 dificeis. Vale ressaltar também que as questões selecionadas são as que, dentre as encontradas e exploradas, apresentam maior semelhança com o conhecimento teórico apresentado em sala de aula.
 
 ## Exercícios Resolvidos
 
@@ -31,6 +31,7 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 | 1 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [LC797.py](./Exercício%20797/LC797.py)| Média | Ana Luiza Hoffmann Ferreira |
 | 2 | [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [LC2642.py](./Exercício%202642/LC2642.py) | Difícil | Ana Luiza Hoffmann Ferreira |
 | 3 | [1557. Minimum Number of Vértices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [LC1557.py](./Exercício%202642/LC1557.py) | Média | Edson Gomes da Silva Filho |
+| 4 | [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) | [LC332.py](./Exercício%20332/LC332.py) | Dificil | Edson Gomes da Silva Filho |
 
 ## Disciplina
 
