@@ -1,7 +1,5 @@
 from collections import deque
-
 class Graph:
-
     def __init__(self, n, edges):
         self.n = n
         self.graph = [[] for _ in range(n)]
@@ -25,5 +23,4 @@ class Graph:
                 if new_cost < dist[v]:
                     dist[v] = new_cost
                     queue.append((v, new_cost))
-
         return dist[node2] if dist[node2] != float('inf') else -1
