@@ -31,7 +31,7 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 | 1 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [LC797.py](./Exercício%20797/LC797.py)| Média | Ana Luiza Hoffmann Ferreira |
 | 2 | [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [LC2642.py](./Exercício%202642/LC2642.py) | Difícil | Ana Luiza Hoffmann Ferreira |
 | 3 | [1557. Minimum Number of Vértices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [LC1557.py](./Exercício%202642/LC1557.py) | Média | Edson Gomes da Silva Filho |
-| 4 | [332. Reconstruct Itinerary] | [LC332.py](./Exercício%202642/LC332.py) | Difícil | Edson Gomes da Silva Filho |
+| 4 | [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [LC332.py](./Exercício%202642/LC332.py) | Difícil | Edson Gomes da Silva Filho |
 
 ## Disciplina
 
